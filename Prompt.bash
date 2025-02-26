@@ -1,0 +1,1 @@
+export PS1="\e[0;36m [Joseph Hopkins @ 22807749 \ \w \ ]$ \e[m"
